@@ -8,4 +8,4 @@
 
 [Ejercicios básicos de python](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Ej_Python_1851528.ipynb)
 
-[Practica de Limpieza de datos[(https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Ej_Limpieza_Equipo1.ipynb)
+[Practica de Limpieza de datos](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Ej_Limpieza_Equipo1.ipynb)
