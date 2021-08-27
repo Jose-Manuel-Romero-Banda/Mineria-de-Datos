@@ -7,3 +7,5 @@
 [Ejercicio base de datos](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Equipo_1-Ejercicio%20base%20de%20datos.pdf)
 
 [Ejercicios básicos de python](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Ej_Python_1851528.ipynb)
+
+[Practica de Limpieza de datos[(https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Ej_Limpieza_Equipo1.ipynb)
