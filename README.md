@@ -11,3 +11,4 @@
 [Practica de limpieza de datos](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Ej_Limpieza_Equipo1.ipynb)
 
 [Primer avance de PIA]
+## Fase 2
