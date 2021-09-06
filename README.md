@@ -14,4 +14,4 @@
 ## Fase 2
 Presentación de técnica
 * [Presentación](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Presentaci%C3%B3n_Regresion-Lineal_Equipo1.pdf)
-* Preguntas 
+* [Preguntas](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Preguntas_Regresi%C3%B3n-Lineal_Equipo1.pdf) 
