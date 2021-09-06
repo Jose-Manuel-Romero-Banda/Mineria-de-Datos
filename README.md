@@ -13,5 +13,5 @@
 [Primer avance de PIA](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo1.ipynb)
 ## Fase 2
 Presentación de técnica
-* [Presentación]
+* Presentación
 * Preguntas 
