@@ -19,3 +19,5 @@ Presentación de técnica
 * [Preguntas](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Preguntas_Regresi%C3%B3n-Lineal_Equipo1.pdf) 
 
 [Practica de visualización de datos](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Visualizacion_Equipo1.ipynb)
+
+[Segundo avance de PIA]
