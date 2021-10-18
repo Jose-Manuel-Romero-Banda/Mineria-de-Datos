@@ -24,4 +24,5 @@ Presentación de técnica
 
 [Práctica de técnicas](https://github.com/IsabelRangel/Mineria_datos/blob/main/Pr%C3%A1ctica_T%C3%A9cnicas.ipynb)
 
+## Fase Final
 [Avance final de PIA](https://github.com/IsabelRangel/Mineria_datos/blob/main/PIA_Equipo1.ipynb)
