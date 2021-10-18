@@ -23,3 +23,5 @@ Presentación de técnica
 [Segundo avance de PIA](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Avance2_PIA_Equipo1.ipynb)
 
 [Práctica de técnicas](https://github.com/IsabelRangel/Mineria_datos/blob/main/Pr%C3%A1ctica_T%C3%A9cnicas.ipynb)
+
+[Avance final de PIA](https://github.com/IsabelRangel/Mineria_datos/blob/main/PIA_Equipo1.ipynb)
