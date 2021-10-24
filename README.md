@@ -26,4 +26,5 @@ Presentación de técnica
 
 ## Fase Final
 [Avance final de PIA](https://github.com/IsabelRangel/Mineria_datos/blob/main/PIA_Equipo1.ipynb)
+
 [Póster](https://github.com/IsabelRangel/Mineria_datos/blob/main/Poster_Equipo1.pdf)
